@@ -10,6 +10,7 @@ A distributed, event-driven order processing system built with **Apache Kafka** 
 - [Message Schema (`order.avsc`)](#-message-schema-orderavsc)
 - [Project Structure](#-project-structure)
 - [Prerequisites & Installation](#-prerequisites--installation)
+- [🚀 Comprehensive Demo Guide (DEMO_GUIDE.md)](./DEMO_GUIDE.md)
 - [Live Demonstration Guide](#-live-demonstration-guide)
   - [Option A: Standalone Simulator (Instant In-Memory Demo)](#option-a-standalone-simulator-instant-demo)
   - [Option B: Multi-Terminal Live Demo with Real Kafka Cluster](#option-b-multi-terminal-live-demo-with-kafka-broker)
